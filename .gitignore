@@ -71,3 +71,5 @@ node_modules/
 
 # Ignore build files if you're building your app in the container
 dist/
+
+.vercel
